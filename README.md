@@ -4,7 +4,7 @@ Board definition file with Arduino IDE for my avr-boards.
 ## Board manager URL
 
 ```
-https://github.com/yueno0730/avr-board/tree/main/package_avr-board.json
+https://github.com/yueno0730/avr-board/blob/main/package_avr-board.json
 ```
 
 ## Overview
