@@ -2,7 +2,7 @@
     "packages": [
         {
             "name": "avr-board",
-            "websiteURL": "https://github.com/yueno0730/avrboard/",
+            "websiteURL": "https://github.com/yueno0730/avr-board/",
             "maintainer": "Yuji Ueno",
             "email": "yueno0730@gmail.com",
             "help": {
@@ -14,7 +14,7 @@
                     "architecture": "avr",
                     "version": "1.0",
                     "category": "Contributed",
-                    "url": "https://github.com/yueno0730/avr-board/releases/avr-board-1.0.zip",
+                    "url": "https://github.com/yueno0730/avr-board/releases/download/Release/avr-board-1.0.zip",
                     "archiveFileName": "avr-board-1.0.zip",
                     "checksum": "SHA-256:64d2f8a5728988ca401ea78fd878b73a6990384d352215877d6346c97ac8825a",
                     "size": 96475,
