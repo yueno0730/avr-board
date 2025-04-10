@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/yueno0730/avr-board/releases/download/Release/avr-board-1.0.zip",
                     "archiveFileName": "avr-board-1.0.zip",
-                    "checksum": "SHA-256:0312fe21b7237e00889372045a7cc7e6f153528168896991c07eedc0cf19943a",
-                    "size": 101515,
+                    "checksum": "12fb9435ccfdcde8b2b35c52cc2ff633cf93102afe160434f1fa01af1d2ceb60",
+                    "size": 8104157,
                     "boards": [
                         {
                             "name": "Yuji's PIRAMP Board(8MHz)"
