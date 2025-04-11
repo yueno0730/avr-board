@@ -16,7 +16,7 @@
                     "category": "Contributed",
                     "url": "https://github.com/yueno0730/avr-board/releases/download/Release/avr-board-1.0.zip",
                     "archiveFileName": "avr-board-1.0.zip",
-                    "checksum": "SHA-256:1c28ff9442cea357956ebb3e3994223aa964a66891c93dee4fe559456e43179e1",
+                    "checksum": "SHA-256:c28ff9442cea357956ebb3e3994223aa964a66891c93dee4fe559456e43179e1",
                     "size": 159617,
                     "boards": [
                         {
