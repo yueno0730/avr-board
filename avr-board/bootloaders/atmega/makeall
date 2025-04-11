@@ -1,0 +1,7 @@
+#!/bin/bash
+make clean
+
+# 
+make piramp8
+make piramp16
+make usbio8
